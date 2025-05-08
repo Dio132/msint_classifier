@@ -1,0 +1,40 @@
+# Ignore virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings (optional)
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Python test cache
+.pytest_cache/
+
+# Streamlit cache
+.streamlit/
+
+# Output and temp files
+*.out
+*.tmp
+
+# Model files
+*.h5
+*.hdf5
+*.pb
+*.ckpt
+
+mnist_model.h1/
