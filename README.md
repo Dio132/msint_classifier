@@ -1,11 +1,11 @@
-# MNIST Digit Classifier 🧠✍️
+# MNIST Digit Classifier 
 
 This is a real-time digit classification web application where users can draw a number on screen, and a Neural Network classifies it instantly.
 
 ## Description
 
-- 🎨 Draw a digit using the mouse or touchpad in the app's canvas.
-- 🤖 A NN trained on the MNIST dataset predicts which digit was drawn.
+-  Draw a digit using the mouse or touchpad in the app's canvas.
+-  A NN trained on the MNIST dataset predicts which digit was drawn.
 
 ## Features
 
